@@ -1,0 +1,76 @@
+Transform how you manage your contacts with Contacts Overlay—a powerful, privacy-first contact manager that helps you stay organized and connected.
+
+KEY FEATURES
+
+Timeline View
+See your contacts in chronological order and track exactly when each person was added to your network. Perfect for remembering new connections and managing your growing contact list.
+
+Smart Search
+Find any contact instantly with powerful search functionality. Type a name and get results immediately—no more endless scrolling.
+
+Flexible Sorting
+View your contacts exactly how you want:
+• Alphabetical by name
+• Newest contacts first
+• Oldest contacts first
+
+Overlay Interface
+Access your contacts through an elegant, draggable overlay sheet that makes navigation smooth and intuitive. Easily browse through your entire contact list with natural gestures.
+
+Contact Details
+View comprehensive information for each contact including phone numbers, email addresses, and when they were added to your device.
+
+PREMIUM FEATURES
+
+Unlock Pro to get:
+• Unlimited contacts (no restrictions)
+• Advanced analytics about your network growth
+• Custom tags and categories for organization
+• iCloud sync across all your devices
+• Contact reminders so you never forget to follow up
+• Priority email support
+
+Try Premium free for 7 days, then just $19.99/year. Cancel anytime.
+
+PRIVACY FIRST
+
+Your data is YOUR data:
+• All contacts stored locally on your device
+• No data collection or tracking
+• No ads, ever
+• No account required
+• Complete privacy and security
+
+We only access your contacts to display them—nothing is ever uploaded, shared, or sold.
+
+BEAUTIFUL DESIGN
+
+Native iOS design that feels right at home on your iPhone:
+• Clean, modern interface
+• Smooth animations
+• Dark mode support
+• Optimized for all iPhone sizes
+
+PERFECT FOR
+
+• Professionals managing business contacts
+• Anyone who wants better contact organization
+• People who value privacy
+• Users who want to track network growth
+• Anyone frustrated with the default Contacts app
+
+SUBSCRIPTION INFORMATION
+
+Premium subscription: $19.99/year with 7-day free trial
+
+• Payment charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• Account charged for renewal within 24 hours prior to the end of the current period
+• Subscriptions managed by the user; auto-renewal can be turned off in Account Settings after purchase
+• Any unused portion of free trial forfeited when subscription purchased
+
+Privacy Policy: https://gist.github.com/kwlcode/1b80ff11b4835abd6c5ddbbc58958301
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Download Contacts Overlay today and take control of your contact management!
